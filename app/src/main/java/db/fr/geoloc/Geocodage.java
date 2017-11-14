@@ -170,6 +170,10 @@ public class Geocodage extends AppCompatActivity implements View.OnClickListener
     } /// onClick
 
     // -----------------------
+
+    /**
+     * 
+     */
     private void initInterface() {
         /*
          * Liens Widgets-Variables
